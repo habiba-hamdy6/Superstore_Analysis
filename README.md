@@ -88,5 +88,5 @@ It's to turn Sales into Profitable Growth.
 Dashboard Preview
 
 Here's a quick look at the dashboard I built in Excel.
-![Superstore Dashboard](Superstore_Dashboard (2).png)
+![Superstore Business Performance](Superstore_Dashboard%20(2).png)
 
